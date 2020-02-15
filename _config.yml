@@ -7,5 +7,3 @@ github_username: amebrahimi
 
 markdown: kramdown
 theme: minima
-plugins:
-  - jekyll-feed
