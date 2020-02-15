@@ -1,13 +1,11 @@
 title: Wordpress Tutorial
+author: Amir Mahmoud Ebrahimi
 email: amirebrahimi5@gmail.com
-description: >-
-  TradeMarks 2020
-baseurl: "wordpress_journal"
-url: ""
+description: TradeMarks 2020
 twitter_username: AmirMahmoudEbra
 github_username: amebrahimi
 
 markdown: kramdown
-theme: jekyll-theme-hacker
+theme: minima
 plugins:
   - jekyll-feed
