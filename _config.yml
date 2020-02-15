@@ -8,6 +8,6 @@ twitter_username: AmirMahmoudEbra
 github_username: amebrahimi
 
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
